@@ -29,6 +29,112 @@ Essere (Ser)
 | voi       | siete       | sois       | siéte         |
 | loro      | sono        | son        | sóno          |
 
+
+
+
+Pronombres en italiano
+
+Pronomi Personali Soggetto (Pronombres Personales de Sujeto)
+| Pronombre | Traducción | Pronunciación |
+|-----------|------------|---------------|
+| io        | yo         | ío            |
+| tu        | tú         | tú            |
+| lui       | él         | lúi           |
+| lei       | ella       | léi           |
+| noi       | nosotros   | nói           |
+| voi       | vosotros   | vói           |
+| loro      | ellos/ellas| lóro          |
+
+Pronomi Personali Oggetto Diretto (Pronombres de Objeto Directo)
+| Pronombre | Traducción | Pronunciación |
+|-----------|------------|---------------|
+| mi        | me         | mí            |
+| ti        | te         | tí            |
+| lo        | lo (masc.) | ló            |
+| la        | la (fem.)  | lá            |
+| ci        | nos        | chí           |
+| vi        | os         | ví            |
+| li        | los        | lí            |
+| le        | las        | lé            |
+
+Pronomi Personali Oggetto Indiretto (Pronombres de Objeto Indirecto)
+| Pronombre | Traducción | Pronunciación |
+|-----------|------------|---------------|
+| mi        | me         | mí            |
+| ti        | te         | tí            |
+| gli       | le (masc.) | lí            |
+| le        | le (fem.)  | lé            |
+| ci        | nos        | chí           |
+| vi        | os         | ví            |
+| loro      | les        | lóro          |
+
+Pronomi Riflessivi (Pronombres Reflexivos)
+| Pronombre | Traducción | Pronunciación |
+|-----------|------------|---------------|
+| mi        | me         | mí            |
+| ti        | te         | tí            |
+| si        | se         | sí            |
+| ci        | nos        | chí           |
+| vi        | os         | ví            |
+| si        | se         | sí            |
+
+Pronomi Possessivi (Pronombres Posesivos)
+| Pronombre         | Traducción       | Pronunciación     |
+|-------------------|------------------|-------------------|
+| il mio / la mia   | el mío / la mía  | íl mío / lá mí-a  |
+| il tuo / la tua   | el tuyo / la tuya| íl tú-o / lá tú-a |
+| il suo / la sua   | el suyo / la suya| íl sú-o / lá sú-a |
+| il nostro / la nostra | el nuestro / la nuestra | íl nóstro / lá nóstra |
+| il vostro / la vostra | el vuestro / la vuestra | íl vóstro / lá vóstra |
+| il loro / la loro | el suyo / la suya| íl lóro / lá lóro |
+
+**Nota**: Los pronombres posesivos en italiano concuerdan en género y número con el sustantivo al que se refieren (por ejemplo, *il mio libro* pero *la mia casa*).
+
+Pronomi Dimostrativi (Pronombres Demostrativos)
+| Pronombre         | Traducción       | Pronunciación     |
+|-------------------|------------------|-------------------|
+| questo / questa   | este / esta      | kuésto / kuésta   |
+| codesto / codesta | ese / esa        | kodésto / kodésta |
+| quello / quella   | aquel / aquella   | kuéllo / kuélla   |
+| questi / queste   | estos / estas    | kuésti / kuéste   |
+| quelli / quelle   | aquellos / aquellas | kuélli / kuélle |
+
+**Nota**: *Codesto* es menos común en el italiano moderno y se usa principalmente en contextos formales o literarios para referirse a algo cercano al oyente.
+
+
+
+Notas:
+- **Pronomi Personali Soggetto**: Se usan como sujeto de la oración. En italiano, suelen omitirse porque el verbo indica la persona, salvo para énfasis o claridad.
+- **Pronomi Personali Oggetto Diretto e Indiretto**: Se usan para reemplazar complementos directos e indirectos, respectivamente. Los pronombres de objeto indirecto *gli* y *le* son específicos para masculino y femenino en tercera persona singular.
+- **Pronomi Riflessivi**: Se usan con verbos reflexivos (por ejemplo, *mi lavo* = me lavo). El pronombre *si* cubre tanto la tercera persona singular como plural.
+- **Pronomi Possessivi**: Funcionan como adjetivos o pronombres según el contexto, y concuerdan en género y número con el sustantivo poseído, no con el poseedor.
+- **Pronomi Dimostrativi**: Concuerdan en género y número con el sustantivo al que se refieren. *Questo* y *quello* son los más comunes; *codesto* es raro en el habla cotidiana.
+- La pronunciación es aproximada para hablantes de español, pero el italiano tiene vocales más claras y una entonación distinta.
+- Si necesitas tablas para otros tipos de pronombres (por ejemplo, relativos, interrogativos) o más detalles, indícalos y lo ajustaré.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Stare (Estar)
 
 | Pronombre | Conjugación | Traducción | Pronunciación |
