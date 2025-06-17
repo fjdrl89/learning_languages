@@ -1,117 +1,498 @@
+# Índice
+
+* [Aprendiendo Italiano desde Cero](#aprendiendo-italiano-desde-cero)
+
+  * [Curso con SoyMiguelIdiomas](#curso-con-soymiguelidiomas)
+
+    * [Clase 1](#clase-1)
+
+      * [Vocabulario Básico](#vocabulario-básico)
+
+      * [Conjunciones y Negación](#conjunciones-y-negación)
+
+      * [Formación de Frases (Ejemplos)](#formación-de-frases-ejemplos)
+
+    * [Clase #2](#clase-2)
+
+      * [1. Repaso de Pronombres Personales](#1-repaso-de-pronombres-personales)
+
+      * [2. Verbo Avere (Tener)](#2-verbo-avere-tener)
+
+      * [3. Artículos Indeterminados (Articoli Indeterminati)](#3-artículos-indeterminados-articoli-indeterminati)
+
+      * [4. Reglas Clave de Gramática y Uso](#4-reglas-clave-de-gramática-y-uso)
+
+      * [5. Los Números (I Numeri)](#5-los-números-i-numeri)
+
+      * [6. Vocabulario Adicional](#6-vocabulario-adicional)
+
+      * [7. Cómo Decir la Edad](#7-cómo-decir-la-edad)
+
+    * [Clase #3](#clase-3)
+
+      * [1. Artículos Definidos (Articoli Determinativi)](#1-artículos-definidos-articoli-determinativi)
+
+        * [Artículos Singulares](#artículos-singulares)
+
+        * [Artículos Plurales](#artículos-plurales)
+
+      * [2. Verbo Mangiare (Comer)](#2-verbo-mangiare-comer)
+
+      * [3. Vocabulario: Comida y Bebidas (Cibo e Bevande)](#3-vocabulario-comida-y-bebidas-cibo-e-bevande)
+
+      * [4. Frases de Ejemplo (Frasi di Esempio)](#4-frases-de-ejemplo-frasi-di-esempio)
+
 # Aprendiendo Italiano desde Cero
 
 ## Curso con **SoyMiguelIdiomas**
 
-Link: [Curso Italiano - Soy Miguel Idiomas](https://www.youtube.com/playlist?list=PL46G4t0fsnaKq6JSBQNpPB-To9vfzlxo9) 
+Link: [Curso Italiano - Soy Miguel Idiomas](https://www.youtube.com/playlist?list=PL46G4t0fsnaKq6JSBQNpPB-To9vfzlxo9) 
 
-### Clase 1 
+---
+
+### Clase 1 
+
+La lección comienza con los pronombres personales, que son la base para construir oraciones.
 
 | Pronombre personales (Italiano) | Traducción (Español) | Pronunciación (Español) |
-|---------------------------------|----------------------|-------------------------|
-| io                              | yo                   | ío                      |
-| tu                              | tú                   | tú                      |
-| lui                             | él                   | lúi                     |
-| lei                             | ella                 | léi                     |
-| noi                             | nosotros             | nói                     |
-| voi                             | vosotros             | vói                     |
-| loro                            | ellos/ellas          | lóro                    |
+|---|---|---|
+| io                              | yo                   | ío                      |
+| tu                              | tú                   | tú                      |
+| lui                             | él                   | lúi                     |
+| lei                             | ella                 | léi                     |
+| noi                             | nosotros             | nói                     |
+| voi                             | vosotros             | vói                     |
+| loro                            | ellos/ellas          | lóro                    |
 
-- Conjugaciones del verbo **ser = (essere)**  en presente de indicativo
+#### Ampliación: Tip Gramatical - La Forma de Cortesía
 
-Essere (Ser)
+A diferencia del español, donde "usted" es una palabra específica, en italiano se usa **Lei** (con mayúscula) para dirigirse a alguien formalmente. Es el mismo pronombre que "ella", pero el contexto y la mayúscula en la escritura lo distinguen. La conjugación del verbo es la misma que para `lui/lei`.
 
+* `Lei è il direttore?` -> ¿Usted es el director?
+* `Lei è Maria.` -> Ella es María.
+
+A continuación, se presenta la conjugación de uno de los verbos más importantes, *essere*, en tiempo presente.
+
+**Essere (Ser/Estar):**
 | Pronombre | Conjugación | Traducción | Pronunciación |
-|-----------|-------------|------------|---------------|
-| io        | sono        | soy        | sóno          |
-| tu        | sei         | eres       | séi           |
-| lui/lei   | è           | es         | é             |
-| noi       | siamo       | somos      | siámo         |
-| voi       | siete       | sois       | siéte         |
-| loro      | sono        | son        | sóno          |
+|---|---|---|---|
+| io | sono | soy/estoy | sóno |
+| tu | sei | eres/estás | séi |
+| lui/lei/Lei | è | es/está | é |
+| noi | siamo | somos/estamos | siámo |
+| voi | siete | sois/estáis | siéte |
+| loro | sono | son/están | sóno |
 
+#### Ampliación: Más Usos del Verbo *Essere*
 
+El verbo *essere* se usa tanto para **identidad** (ser) como para **estado o ubicación** (estar).
 
+**Ejemplos con adjetivos y nacionalidades:**
+* *Io sono spagnolo.* (Yo soy español.)
+* *Noi siamo stanchi.* (Nosotros estamos cansados.)
+* *Maria è felice.* (María está feliz.)
 
-Pronombres en italiano
+**Ejemplos para preguntar y negar:**
+* *Sei italiano?* (¿Eres italiano?)
+* *No, non sono italiano. Sono messicano.* (No, no soy italiano. Soy mexicano.)
+* *Loro non sono a casa.* (Ellos no están en casa.)
 
-Pronomi Personali Soggetto (Pronombres Personales de Sujeto)
-| Pronombre | Traducción | Pronunciación |
-|-----------|------------|---------------|
-| io        | yo         | ío            |
-| tu        | tú         | tú            |
-| lui       | él         | lúi           |
-| lei       | ella       | léi           |
-| noi       | nosotros   | nói           |
-| voi       | vosotros   | vói           |
-| loro      | ellos/ellas| lóro          |
+---
 
-Pronomi Personali Oggetto Diretto (Pronombres de Objeto Directo)
-| Pronombre | Traducción | Pronunciación |
-|-----------|------------|---------------|
-| mi        | me         | mí            |
-| ti        | te         | tí            |
-| lo        | lo (masc.) | ló            |
-| la        | la (fem.)  | lá            |
-| ci        | nos        | chí           |
-| vi        | os         | ví            |
-| li        | los        | lí            |
-| le        | las        | lé            |
+#### **Vocabulario Básico**
 
-Pronomi Personali Oggetto Indiretto (Pronombres de Objeto Indirecto)
-| Pronombre | Traducción | Pronunciación |
-|-----------|------------|---------------|
-| mi        | me         | mí            |
-| ti        | te         | tí            |
-| gli       | le (masc.) | lí            |
-| le        | le (fem.)  | lé            |
-| ci        | nos        | chí           |
-| vi        | os         | ví            |
-| loro      | les        | lóro          |
+Se introduce vocabulario esencial para formar las primeras frases, incluyendo posesivos y miembros de la familia.
 
-Pronomi Riflessivi (Pronombres Reflexivos)
-| Pronombre | Traducción | Pronunciación |
-|-----------|------------|---------------|
-| mi        | me         | mí            |
-| ti        | te         | tí            |
-| si        | se         | sí            |
-| ci        | nos        | chí           |
-| vi        | os         | ví            |
-| si        | se         | sí            |
+| Italiano | Español |
+| :--- | :--- |
+| Mio / Mia | Mío / Mía |
+| Amico / Amica | Amigo / Amiga |
+| Amici | Amigos |
+| Fratello | Hermano |
+| Sorella | Hermana |
 
-Pronomi Possessivi (Pronombres Posesivos)
-| Pronombre         | Traducción       | Pronunciación     |
-|-------------------|------------------|-------------------|
-| il mio / la mia   | el mío / la mía  | íl mío / lá mí-a  |
-| il tuo / la tua   | el tuyo / la tuya| íl tú-o / lá tú-a |
-| il suo / la sua   | el suyo / la suya| íl sú-o / lá sú-a |
-| il nostro / la nostra | el nuestro / la nuestra | íl nóstro / lá nóstra |
-| il vostro / la vostra | el vuestro / la vuestra | íl vóstro / lá vóstra |
-| il loro / la loro | el suyo / la suya| íl lóro / lá lóro |
+#### Ampliación: Vocabulario Adicional
 
-**Nota**: Los pronombres posesivos en italiano concuerdan en género y número con el sustantivo al que se refieren (por ejemplo, *il mio libro* pero *la mia casa*).
+**Sustantivos**
+| Italiano | Español |
+| :--- | :--- |
+| Ragazzo / Ragazza | Chico / Chica |
+| Uomo / Donna | Hombre / Mujer |
+| Casa | Casa |
+| Libro | Libro |
 
-Pronomi Dimostrativi (Pronombres Demostrativos)
-| Pronombre         | Traducción       | Pronunciación     |
-|-------------------|------------------|-------------------|
-| questo / questa   | este / esta      | kuésto / kuésta   |
-| codesto / codesta | ese / esa        | kodésto / kodésta |
-| quello / quella   | aquel / aquella   | kuéllo / kuélla   |
-| questi / queste   | estos / estas    | kuésti / kuéste   |
-| quelli / quelle   | aquellos / aquellas | kuélli / kuélle |
+**Adjetivos Comunes**
+| Italiano | Español |
+| :--- | :--- |
+| Buono / Buona | Bueno / Buena |
+| Grande / Grandi | Grande / Grandes |
+| Piccolo / Piccola | Pequeño / Pequeña |
+| Felice / Felici | Feliz / Felices |
+| Triste / Tristi | Triste / Tristes |
+| Stanco / Stanca | Cansado / Cansada |
 
-**Nota**: *Codesto* es menos común en el italiano moderno y se usa principalmente en contextos formales o literarios para referirse a algo cercano al oyente.
+---
 
+#### **Conjunciones y Negación**
 
+Se enseñan palabras para conectar ideas y para negar.
 
-Notas:
-- **Pronomi Personali Soggetto**: Se usan como sujeto de la oración. En italiano, suelen omitirse porque el verbo indica la persona, salvo para énfasis o claridad.
-- **Pronomi Personali Oggetto Diretto e Indiretto**: Se usan para reemplazar complementos directos e indirectos, respectivamente. Los pronombres de objeto indirecto *gli* y *le* son específicos para masculino y femenino en tercera persona singular.
-- **Pronomi Riflessivi**: Se usan con verbos reflexivos (por ejemplo, *mi lavo* = me lavo). El pronombre *si* cubre tanto la tercera persona singular como plural.
-- **Pronomi Possessivi**: Funcionan como adjetivos o pronombres según el contexto, y concuerdan en género y número con el sustantivo poseído, no con el poseedor.
-- **Pronomi Dimostrativi**: Concuerdan en género y número con el sustantivo al que se refieren. *Questo* y *quello* son los más comunes; *codesto* es raro en el habla cotidiana.
-- La pronunciación es aproximada para hablantes de español, pero el italiano tiene vocales más claras y una entonación distinta.
-- Si necesitas tablas para otros tipos de pronombres (por ejemplo, relativos, interrogativos) o más detalles, indícalos y lo ajustaré.
+| Palabra (Italiano) | Tipo | Traducción (Español) |
+| :--- | :--- | :--- |
+| e | Conjunción | y |
+| ma | Conjunción | pero |
+| non | Adverbio | no |
 
+---
+
+#### **Formación de Frases (Ejemplos)**
+
+Utilizando los elementos anteriores, el video muestra cómo construir oraciones completas.
+
+* **Tu sei il mio amico.**
+    * *Tú eres mi amigo.*
+* **Lei è la mia amica.**
+    * *Ella es mi amiga.*
+* **Noi siamo amici.**
+    * *Nosotros somos amigos.*
+* **Lei è la mia amica e lui è il mio fratello.**
+    * *Ella es mi amiga y él es mi hermano.*
+* **Marcia è la mia amica, ma Emilia non è mia sorella.**
+    * *Marcia es mi amiga, pero Emilia no es mi hermana.*
+* **Loro non sono amici.**
+    * *Ellos no son amigos.*
+
+---
+---
+
+### **Clase #2**
+
+#### **1. Repaso de Pronombres Personales**
+
+La clase comienza con un breve repaso de los pronombres personales para asegurar que la base de la lección anterior esté clara.
+
+| Pronombre (Italiano) | Equivalente (Español) |
+| :--- | :--- |
+| Io | Yo |
+| Tu | Tú (informal) |
+| Lui | Él |
+| Lei | Ella / Usted (formal) |
+| Noi | Nosotros / Nosotras |
+| Voi | Vosotros / Ustedes |
+| Loro | Ellos / Ellas |
+
+---
+
+#### **2. Verbo *Avere* (Tener)**
+
+El tema principal de la lección es la conjugación y el uso del verbo *avere*, que significa "tener" o "poseer".
+
+| Pronombre + Verbo (Italiano) | Traducción (Español) |
+| :--- | :--- |
+| Io **ho** | Yo tengo |
+| Tu **hai** | Tú tienes |
+| Lui / Lei **ha** | Él / Ella / Usted tiene |
+| Noi **abbiamo** | Nosotros tenemos |
+| Voi **avete** | Vosotros tenéis / Ustedes tienen |
+| Loro **hanno** | Ellos tienen |
+
+**Notas importantes sobre *avere***:
+* La letra 'h' al inicio de las conjugaciones (`ho`, `hai`, `ha`, `hanno`) es **completamente muda**. No se pronuncia.
+* En `noi abbiamo`, el sonido de la 'o' final se alarga ligeramente debido al acento grave, una característica de la pronunciación italiana \[[03:57](http://www.youtube.com/watch?v=xcM02ZtixDQ&t=237)\].
+
+#### Ampliación: Expresiones Idiomáticas con *Avere*
+
+Un punto clave para los hispanohablantes: en italiano, muchas sensaciones que en español se expresan con "tener" o "estar", en italiano usan el verbo **avere**. ¡Aprender esto es fundamental!
+
+| Expresión Italiana | Traducción Literal | Significado Real (Español) |
+| :--- | :--- | :--- |
+| **Avere fame** | Tener hambre | Tener hambre |
+| **Avere sete** | Tener sed | Tener sed |
+| **Avere sonno** | Tener sueño | Tener sueño |
+| **Avere caldo** | Tener calor | Tener calor |
+| **Avere freddo** | Tener frío | Tener frío |
+| **Avere fretta** | Tener prisa | Tener prisa |
+| **Avere paura di...**| Tener miedo de... | Tener miedo de... |
+
+**Ejemplos:**
+* *Ho molta fame!* (¡Tengo mucha hambre!)
+* *Hai sonno?* (¿Tienes sueño?)
+* *Loro non hanno freddo.* (Ellos no tienen frío.)
+
+---
+
+#### **3. Artículos Indeterminados (*Articoli Indeterminati*)**
+
+Se introducen los equivalentes a "un" y "una" en español.
+
+| Artículo | Género | Uso | Ejemplo |
+| :--- | :--- | :--- | :--- |
+| **un** | Masculino | Se usa antes de sustantivos masculinos. | `un libro` (un libro) |
+| **una** | Femenino | Se usa antes de sustantivos femeninos. | `una casa` (una casa) |
+| **un'** | Femenino | Se usa antes de sustantivos femeninos que comienzan con vocal. | `un'amica` (una amiga) |
+
+**Nota sobre `un'`**: Este uso del apóstrofo se conoce como *ligatura* o elisión y sirve para unir el sonido del artículo con la palabra siguiente, evitando una pausa \[[11:19](http://www.youtube.com/watch?v=xcM02ZtixDQ&t=679)\].
+
+---
+
+#### **4. Reglas Clave de Gramática y Uso**
+
+* **Economía Lingüística**: En italiano es muy común omitir el pronombre personal (yo, tú, él, etc.) porque la conjugación del verbo ya indica quién realiza la acción.
+    * Ejemplo: En lugar de `Io ho un amico`, se puede decir simplemente `Ho un amico` (Tengo un amigo) \[[09:41](http://www.youtube.com/watch?v=xcM02ZtixDQ&t=581)\].
+
+* **Negación**: Para formar una oración negativa, se coloca la palabra `non` directamente antes del verbo conjugado.
+    * Ejemplo: `Non ho un libro` (No tengo un libro) \[[17:27](http://www.youtube.com/watch?v=xcM02ZtixDQ&t=1047)\].
+
+---
+
+#### **5. Los Números (*I Numeri*)**
+
+La lección dedica una parte importante a aprender los números del 0 al 100.
+
+**Números del 0 al 10**
+
+| Número | Italiano | Número | Italiano |
+| :--- | :--- | :--- | :--- |
+| 0 | zero | 6 | sei |
+| 1 | uno | 7 | sette |
+| 2 | due | 8 | otto |
+| 3 | tre | 9 | nove |
+| 4 | quattro | 10 | dieci |
+| 5 | cinque | | |
+
+**Números del 11 al 20**
+
+| Número | Italiano | Número | Italiano |
+| :--- | :--- | :--- | :--- |
+| 11 | undici | 16 | sedici |
+| 12 | dodici | 17 | diciassette |
+| 13 | tredici | 18 | diciotto |
+| 14 | quattordici | 19 | diciannove |
+| 15 | quindici | 20 | venti |
+
+**Las Decenas (del 20 al 100)**
+
+| Número | Italiano | Notas de Pronunciación |
+| :--- | :--- | :--- |
+| 20 | venti | |
+| 30 | trenta | |
+| 40 | quaranta | |
+| 50 | cinquanta | |
+| 60 | sessanta | Sonido de doble 's' prolongado. |
+| 70 | settanta | |
+| 80 | ottanta | Sonido de doble 't' prolongado. |
+| 90 | novanta | Sonido de 't' simple. |
+| 100 | cento | |
+
+**Regla para formar números compuestos (ej. 21, 31, etc.)**:
+* Cuando un número de decena (venti, trenta, quaranta...) se combina con `uno` (1), la vocal final de la decena se elimina.
+    * Ejemplo: `venti` + `uno` = `ventuno` (21) \[[32:25](http://www.youtube.com/watch?v=xcM02ZtixDQ&t=1945)\].
+* Para el resto de los números (2, 3, 4, etc.), la vocal de la decena se mantiene.
+    * Ejemplo: `venti` + `due` = `ventidue` (22) \[[32:43](http://www.youtube.com/watch?v=xcM02ZtixDQ&t=1963)\].
+
+#### Ampliación: Reglas Avanzadas y Números Grandes
+
+**La regla de la vocal caída se aplica también con `otto` (8):**
+* `venti` + `otto` = `ventotto` (28)
+* `quaranta` + `otto` = `quarantotto` (48)
+
+**Números hasta 1000:**
+* **100**: cento
+* **101**: centouno
+* **125**: centoventicinque
+* **200**: duecento
+* **300**: trecento
+* **1000**: mille
+
+**Tip de pronunciación:** En `cento`, la 'c' suena como "ch" en español (chen-to). En `mille`, la 'll' suena como una 'l' simple y larga (mil-le).
+
+---
+
+#### **6. Vocabulario Adicional**
+
+Se introducen nuevas palabras a lo largo de la lección.
+
+| Italiano (Singular) | Italiano (Plural) | Español |
+| :--- | :--- | :--- |
+| mela | mele | manzana / manzanas |
+| noce | noci | nuez / nueces |
+| libro | libri | libro / libros |
+| anno | anni | año / años |
+| ma | - | pero |
+
+---
+
+#### **7. Cómo Decir la Edad**
+
+Una aplicación práctica del verbo *avere* y los números es para expresar la edad. La estructura es diferente al español.
+
+* **Pregunta**: `Quanti anni hai?` (¿Cuántos años tienes?)
+* **Respuesta**: Se usa la fórmula `Verbo Avere + Número + anni`.
+    * Ejemplo: `(Io) ho ventisette anni.` (Tengo veintisiete años.) \[[37:23](http://www.youtube.com/watch?v=xcM02ZtixDQ&t=2243)\]
+
+---
+---
+
+### **Clase #3**
+
+#### **1. Artículos Definidos (*Articoli Determinativi*)**
+
+A diferencia del español, el italiano tiene varias formas para "el" y "los" dependiendo del sonido con el que empieza la siguiente palabra.
+
+##### **Artículos Singulares**
+
+**Tabla 1: Artículos Masculinos Singulares**
+
+| Artículo | Cuándo se usa | Ejemplo (Italiano) | Traducción |
+| :--- | :--- | :--- | :--- |
+| **il** | Antes de la mayoría de sustantivos masculinos que empiezan con una consonante. | `il libro`, `il cane` | el libro, el perro |
+| **lo** | Antes de sustantivos masculinos que empiezan con: **s+consonante**, **z**, **gn**, **ps**, **y**, **x**. | `lo studente`, `lo zaino` | el estudiante, la mochila |
+| **l'** | Antes de sustantivos masculinos que empiezan con una **vocal**. | `l'amico` | el amigo |
+
+**Tabla 2: Artículos Femeninos Singulares**
+
+| Artículo | Cuándo se usa | Ejemplo (Italiano) | Traducción |
+| :--- | :--- | :--- | :--- |
+| **la** | Antes de sustantivos femeninos que empiezan con una **consonante**. | `la casa`, `la mela` | la casa, la manzana |
+| **l'** | Antes de sustantivos femeninos que empiezan con una **vocal**. | `l'amica` | la amiga |
+
+##### **Artículos Plurales**
+
+**Tabla 3: Artículos Plurales (Masculinos y Femeninos)**
+
+| Artículo Plural | Corresponde al Singular | Uso | Ejemplo (Italiano) | Traducción |
+| :--- | :--- | :--- | :--- | :--- |
+| **i** | `il` | Plural de sustantivos masculinos que usaban `il`. | `i libri`, `i cani` | los libros, los perros |
+| **gli** | `lo` y `l'` | Plural de sustantivos masc. que usaban `lo` o `l'`. | `gli studenti`, `gli amici` | los estudiantes, los amigos |
+| **le** | `la` y `l'` | Plural de todos los sustantivos femeninos. | `le case`, `le amiche` | las casas, las amigas |
+
+#### Ampliación: Práctica con Artículos y Tips Clave
+
+**Práctica: ¿Cuál es el Artículo Correcto?**
+
+Intenta poner el artículo definido singular que corresponde a cada palabra. ¡Cuidado con las trampas!
+
+1.  `___` cane (perro)
+2.  `___` zaino (mochila)
+3.  `___` amico (amigo)
+4.  `___` psicologo (psicólogo)
+5.  `___` studente (estudiante)
+6.  `___` casa (casa)
+7.  `___` arancia (naranja)
+
+*(Respuestas: 1. il, 2. lo, 3. l', 4. lo, 5. lo, 6. la, 7. l')*
+
+**Tip Clave: ¿Por qué "lo psicologo"?**
+
+La regla no es solo "s+consonante", sino cualquier grupo de consonantes "impuro" o difícil de pronunciar después de `il`. Los grupos `ps-`, `gn-`, y `z-` también requieren `lo`.
+
+-----
+
+#### **2. Verbo *Mangiare* (Comer)**
+
+Se introduce la conjugación en presente de este verbo regular terminado en `-are`.
+
+| Pronombre | Verbo Conjugado (Italiano) | Traducción |
+| :--- | :--- | :--- |
+| Io | **mangio** | Yo como |
+| Tu | **mangi** | Tú comes |
+| Lui / Lei | **mangia** | Él / Ella come |
+| Noi | **mangiamo** | Nosotros comemos |
+| Voi | **mangiate** | Vosotros coméis / Ustedes comen |
+| Loro | **mangiano** | Ellos / Ellas comen |
+
+***Tip de Pronunciación***:
+
+* En `noi mangiamo`, la 'i' no se pronuncia, pero su presencia es crucial para que la 'g' mantenga un sonido suave (similar a "manyamo").
+* En `loro mangiano`, el acento de la palabra recae en la primera sílaba: **màn**-gia-no.
+
+#### Ampliación: El Patrón de los Verbos en -ARE
+
+¡Buenas noticias! La mayoría de los verbos que terminan en `-are` se conjugan igual que `mangiare`. Esto te permite conjugar cientos de verbos nuevos.
+
+**Verbo *Parlare* (Hablar):**
+* Io **parlo**
+* Tu **parli**
+* Lui/Lei **parla**
+* Noi **parliamo**
+* Voi **parlate**
+* Loro **parlano**
+
+**Ejemplos:**
+* *Parlo italiano e spagnolo.* (Hablo italiano y español.)
+* *Voi parlate troppo!* (¡Habláis demasiado!)
+
+-----
+
+#### **3. Vocabulario: Comida y Bebidas (*Cibo e Bevande*)**
+
+Se amplía el léxico con sustantivos útiles, emparejados con su artículo definido para reforzar la lección.
+
+| Italiano | Artículo que le corresponde | Traducción al Español |
+| :--- | :--- | :--- |
+| il pane | `il` | el pan |
+| il pesce | `il` | el pescado |
+| il formaggio | `il` | el queso |
+| il riso | `il` | el arroz |
+| l'uovo | `l'` (masc.) | el huevo |
+| la pasta | `la` | la pasta |
+| la carne | `la` | la carne |
+| la mela | `la` | la manzana |
+| la banana | `la` | el plátano / la banana |
+| l'acqua | `l'` (fem.) | el agua |
+
+#### Ampliación: Más Verbos y Vocabulario de Comidas
+
+**Verbos Relacionados**
+| Italiano | Español |
+| :--- | :--- |
+| Bere | Beber |
+| Cucinare | Cocinar |
+| Fare colazione | Desayunar |
+| Pranzare | Almorzar |
+| Cenare | Cenar |
+
+**Más Comida y Bebidas**
+| Italiano | Artículo | Español |
+| :--- | :--- | :--- |
+| il caffè | `il` | el café |
+| il vino | `il` | el vino |
+| la birra | `la` | la cerveza |
+| il pollo | `il` | el pollo |
+| l'insalata | `l'` (fem) | la ensalada |
+| la verdura | `la` | la verdura |
+| la frutta | `la` | la fruta |
+| il dolce | `il` | el postre |
+
+-----
+
+#### **4. Frases de Ejemplo (*Frasi di Esempio*)**
+
+Se combinan todos los elementos aprendidos para construir oraciones completas y prácticas.
+
+* **Io mangio il pane.**
+    * *Yo como el pan.*
+* **Tu mangi la mela.**
+    * *Tú comes la manzana.*
+* **Lui non mangia il pesce.**
+    * *Él no come el pescado.*
+* **Noi mangiamo la pasta.**
+    * *Nosotros comemos la pasta.*
+* **Voi mangiate il formaggio.**
+    * *Ustedes comen el queso.*
+* **Loro mangiano il riso e la carne.**
+    * *Ellos comen el arroz y la carne.*
+
+#### Ampliación: Construyendo Oraciones Más Complejas
+
+* **A colazione, bevo il caffè e mangio il pane.**
+    * *En el desayuno, bebo el café y como el pan.*
+* **Cosa cuciniamo per cena? Prepariamo la pasta con il pollo?**
+    * *¿Qué cocinamos para la cena? ¿Preparamos la pasta con el pollo?*
+* **Loro non bevono il vino, preferiscono la birra.** (Nota: *preferire* es un verbo en -IRE, ¡lo veremos más adelante!)
+    * *Ellos no beben el vino, prefieren la cerveza.*
+
+-----
 
 
 
